@@ -23,5 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 .env
-public/video00.mp4
-public/video01.mp4

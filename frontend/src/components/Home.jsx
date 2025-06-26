@@ -9,7 +9,7 @@ function Home() {
         loop
         className="absolute top-0 left-0 w-full h-full object-cover"
       >
-        <source src="/video0.mp4" type="video/mp4" />
+        <source src="/video00.mp4" type="video/mp4" />
       </video>
       <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-40"></div>
       <div className="relative z-10 flex flex-col items-center justify-center min-h-screen text-white">

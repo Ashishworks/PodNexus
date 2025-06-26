@@ -27,5 +27,5 @@ export default function Header() {
         <Link to="/contact" className="text-white hover:text-gray-300">Contact</Link>
       </div>
     </nav>
-  );
+  ); 
 }

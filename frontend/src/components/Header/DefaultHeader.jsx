@@ -9,6 +9,7 @@ export default function DefaultHeader() {
       <div className="space-x-6">
         <Link to="/" className="text-white hover:text-gray-300">Home</Link>
         <Link to="/explore" className="text-white hover:text-gray-300">Explore</Link>
+        <Link to="/explore" className="text-white hover:text-gray-300">Explore Test</Link>
         <Link to="/about" className="text-white hover:text-gray-300">About</Link>
         <Link to="/contact" className="text-white hover:text-gray-300">Contact</Link>
       </div>
